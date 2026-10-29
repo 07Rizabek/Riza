@@ -1,0 +1,5 @@
+*.pkt binary
+*.pdf binary
+*.docx binary
+*.zip binary
+*.md text eol=lf
